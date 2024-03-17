@@ -2,7 +2,7 @@
 
 ## C
 
-![C code sample](/home/faye/Documents/dod/code_samples/c_ub.png)
+![C code sample](code_samples/c_ub.png)
 
 ### История языка C
 
